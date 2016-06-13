@@ -1,3 +1,6 @@
+
+test
+
 # My API (JSON) Example
 [![Code Climate](https://codeclimate.com/github/szymon33/api/badges/gpa.svg)](https://codeclimate.com/github/szymon33/api)
 [![Test Coverage](https://codeclimate.com/github/szymon33/api/badges/coverage.svg)](https://codeclimate.com/github/szymon33/api/coverage)
